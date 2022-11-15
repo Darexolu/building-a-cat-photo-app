@@ -1,0 +1,7 @@
+body{background-color: gold;
+color: blue;}
+a{color: black;}
+a:hover{color: green;
+background-color: white;}
+strong{color: black;}
+em{color: black;}
